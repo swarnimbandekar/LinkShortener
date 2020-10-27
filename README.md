@@ -1,2 +1,4 @@
 # LinkShortener
-Before using script use these commands in your terminal
+༒︎ Before using script install these commands in your terminal ༒︎
+(**pip install pyshorteners**) **And** 
+(**pip install colorama**)
